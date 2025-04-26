@@ -37,7 +37,6 @@ class Services {
   }
 
   async excluiRegistro(where, transacao) {
-    console.log(where)
     return  dataSource[this.model].destroy(
       {
         where : {...where},
