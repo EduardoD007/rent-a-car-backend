@@ -1,5 +1,5 @@
 <h1 align="center">Rent A Car - ALuguel de automóveis  </h1>
-<h2 align="center">Projeto do backend - Versão com banco de dados e ORM Sequelize</h2>
+<h2 align="center">Projeto do back-end - Versão com banco de dados e ORM Sequelize</h2>
 <div  align="center">
   <img  s src="https://github.com/user-attachments/assets/b80ab65e-8192-4a16-bec4-5496fc1cba30"></img>
 </div>
